@@ -1,0 +1,14 @@
+{
+    "name": "kosmailer/monobank",
+    "description": "PHP SDK for Monobank API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kostiantyn Soroka",
+            "email": "kosmailer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
